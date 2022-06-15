@@ -1,0 +1,70 @@
+body {
+    font-family: Arial;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    justify-content: flex-start;
+    background-color: #FBEEC1;
+  }
+
+  main {
+    margin: 30px;
+  }
+
+  .card {
+    background-color: #FBEEC1;
+  }
+
+  .jumbotron {
+
+    background-color: #659DBD;
+    color: #FBEEC1;
+    margin: 0px;
+
+  }
+
+ nav {
+    background-color: #8D8741;
+    
+  }
+
+  .nav-item, .navbar-brand {
+    color: #FBEEC1;
+  }
+
+  thead {
+      background-color: #659DBD;
+  }
+
+  .card-header {
+    background-color: #659DBD;  
+  }
+
+  .mainproposals {
+    padding: 10px;
+    font-size: 20px;
+  }
+
+  .buttonstyle {
+    display: inline-grid;
+    height: 50px;
+    width: 180px;
+    background-color: #659DBD;
+    /* margin: auto; */
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    font-family: sans-serif;
+    place-items: center;
+    color:#FBEEC1;
+    font-size: 20px;
+    font-weight: 500;
+    text-decoration: none;
+    letter-spacing: 2px;
+    border-radius: 5px;
+
+
+  }
+  
+
